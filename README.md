@@ -44,6 +44,9 @@
 
 安装及使用：https://233boy.com/sing-box/sing-box-script/
 
+安装命令
+`bash <(wget -qO- -o- https://github.com/233boy/sing-box/raw/main/install.sh)`
+
 # 帮助
 
 使用：`sing-box help`
